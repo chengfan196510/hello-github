@@ -1,4 +1,4 @@
-# Github练手项目
+# 我的Github学习仓库
 2026年4月29日学习github创建
 在我的MacBook电脑上进行了第一次修改
 这是我在github网站上进行的修改
